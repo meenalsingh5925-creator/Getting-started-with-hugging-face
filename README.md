@@ -33,7 +33,7 @@ As part of the workshop, I build an AI text assistant tha can:
 - `Gettingstartedwithhuggingface(part2).ipynb` - Workshop part 2
 - `app_py.ipynb` - AI Text Assistant application
 - `requirements_txt.ipynb` - Project dependencies
-- `screenshots/` - Application demo screenshot
+- `screenshots:demo.png` - Application demo screenshot
 
 ## Demo 
 ![AI Text Assistant](screenshots/demo.png)
